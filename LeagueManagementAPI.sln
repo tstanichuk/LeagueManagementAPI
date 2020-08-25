@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueManagementAPI", "LeagueManagementAPI\LeagueManagementAPI.csproj", "{D9711177-118F-4B7B-A78F-4ABD0C1CD70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9711177-118F-4B7B-A78F-4ABD0C1CD70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9711177-118F-4B7B-A78F-4ABD0C1CD70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9711177-118F-4B7B-A78F-4ABD0C1CD70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9711177-118F-4B7B-A78F-4ABD0C1CD70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
